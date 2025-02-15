@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zSLyLjaWTP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gleb\\RiderProjects\\kpo_hw1\\ZooUnitTests\\ZooUnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
